@@ -1,3 +1,4 @@
 # hasura-graphql-tests
-A personal blog using hasura and graphql and react in website and react native to mobile app.
+This project contains studies about hasura and graphql structs tools. 
+I just use react and native because it's my interest to apply in my personal projects.
 
